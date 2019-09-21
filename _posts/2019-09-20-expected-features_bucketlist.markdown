@@ -42,7 +42,7 @@ categories: challenge
 8. Pseudoscience space in Quora
 9. Better explained
 10. Benedikt Ehinger's research blog
-11. [UX planet Moses Kim] (https://uxplanet.org/functional-visualization-vs-artistic-dashboarding-8764cc117aa9)
+11. [UX planet Moses Kim](https://uxplanet.org/functional-visualization-vs-artistic-dashboarding-8764cc117aa9)
 
 **Work on starter kit for research lab**
 1. S luck's ERP book
