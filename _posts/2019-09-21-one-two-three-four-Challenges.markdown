@@ -19,3 +19,9 @@ I will go with 5 solves, drop slowest and fastest, average of remaining 3 solves
 3. Third is relatively simple and more of an academic interest. Take the MIT Course 9.11: The Human Brain taught by Nancy Kanwisher
 	
 4. Cut down body weight and reach 62 kg by Dec 30, 2019. Should be able to do 2 minutes plank, 10 pullups and 10 pushups
+
+*24.09.2019*
+90, 75, 86
+50 98.43%, 54 99.63%, 53 95.29%
+Nothing
+Nothing
