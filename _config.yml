@@ -3,8 +3,6 @@ title: haveyoumetrahul
 email: rhlvenugopal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my online avatar.
-baseurl: "haveyoumetrahul" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rhlvenugopal
 github_username:  
 
