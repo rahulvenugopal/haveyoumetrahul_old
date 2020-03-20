@@ -30,7 +30,4 @@ Most important thing is, a name for the website. In one of those random meetups,
 So the website will be called **haveyoumetrahul** honoring this philosophy.
 
 I went through [Mike Dane's tutorials](https://www.mikedane.com/static-site-generators/jekyll/)
-I already knew some rudimentary markdown (All thanks to Pranay)By the way, check out this awesome software called [Typora](https://typora.io/) - A truly minimal markdown editor.
-
-
-
+I already knew some rudimentary markdown (All thanks to Pranay). By the way, check out this awesome software called [Typora](https://typora.io/) - A truly minimal markdown editor
